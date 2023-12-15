@@ -1,0 +1,164 @@
+[
+  
+  {
+    "Id": "01",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Kotlin",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Lua",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "R",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Ruby",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Go",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "TypeScript",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Futter",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Dart",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Python",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "PHP",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C++",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C#",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  }
+]

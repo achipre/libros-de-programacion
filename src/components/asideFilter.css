@@ -1,0 +1,42 @@
+.aside-filter{
+  height: calc(100vh - 164px - 64px - 48px - 54px - 40px);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  overflow-y: scroll;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  max-width: 350px;
+}
+.aside-filter::-webkit-scrollbar{
+  display: none;
+}
+.section-filter{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.section-filter:hover{
+  background-color: #ff40006b;
+}
+
+.section-filter span{
+  line-height: .5;
+  font-size: 2rem;
+  transform: rotate(180deg) translateY(5px);
+  color: #FF3E00;
+}
+.tecnology{
+  cursor: pointer;
+  padding: .2rem;
+  padding-left: 2rem;
+}
+.tecnology:hover{
+  background-color: #ff40006b;
+}
+.section-program{
+  padding-bottom: 1rem;
+}

@@ -1,0 +1,24 @@
+header{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  grid-column: 1/4;
+  margin-bottom: 1.2rem;
+}
+.logo,
+.header-github{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+header h1 {
+  font-size: 2rem;
+}
+@media (width < 799px) {
+  .header-github p{
+    display: none;
+  }
+  
+}
