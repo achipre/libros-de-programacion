@@ -7,7 +7,7 @@
   padding-bottom: 1rem;
   color: rgba(0, 0, 0, 0.6);
   width: 100%;
-  max-width: 350px;
+  max-width: 280px;
 }
 .aside-filter::-webkit-scrollbar{
   display: none;

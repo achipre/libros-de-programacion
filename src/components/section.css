@@ -1,0 +1,16 @@
+.grid-book{
+  margin: 2rem 0 2rem 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,  minmax(180px, 1fr));
+  height: calc(100vh - 164px - 168px);
+  overflow: scroll;
+  gap: 1rem;
+}
+.grid-book::-webkit-scrollbar {
+  display: none;
+}
+
+.card-book__img{
+  width: 100%;
+}

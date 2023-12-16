@@ -17,10 +17,10 @@
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "General",
     "Autores": "Majo Ledesma",
-    "Idiomas": ["Español", "Ingles"],
+    "Idiomas": ["Español"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/2.jpg"
   },
   {
     "Id": "03",
@@ -31,7 +31,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/3.jpg"
   },
   {
     "Id": "04",
@@ -42,7 +42,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/4.jpg"
   },
   {
     "Id": "05",
@@ -53,7 +53,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/5.jpg"
   },
   {
     "Id": "06",
@@ -64,7 +64,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/6.jpg"
   },
   {
     "Id": "07",
@@ -75,7 +75,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/7.jpg"
   },
   {
     "Id": "08",
@@ -86,7 +86,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/8.jpg"
   },
   {
     "Id": "09",
@@ -97,7 +97,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/9.jpg"
   },
   {
     "Id": "10",
@@ -108,7 +108,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/10.jpg"
   },
   {
     "Id": "11",
@@ -119,7 +119,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/11.jpg"
   },
   {
     "Id": "12",
@@ -130,7 +130,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/12.jpg"
   },
   {
     "Id": "13",
@@ -141,7 +141,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/13.jpg"
   },
   {
     "Id": "14",
@@ -152,7 +152,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/14.jpg"
   },
   {
     "Id": "15",
@@ -163,7 +163,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/15.jpg"
   },
   {
     "Id": "16",
@@ -174,7 +174,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/16.jpg"
   },
   {
     "Id": "17",
@@ -185,7 +185,7 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/17.jpg"
   },
   {
     "Id": "18",
@@ -196,6 +196,94 @@
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
-    "Imagen":"url.com"
+    "Imagen":"/18.jpg"
+  },
+  {
+    "Id": "19",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/19.jpg"
+  },
+  {
+    "Id": "20",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/20.jpg"
+  },
+  {
+    "Id": "21",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/21.jpg"
+  },
+  {
+    "Id": "22",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/22.jpg"
+  },
+  {
+    "Id": "23",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/23.jpg"
+  },
+  {
+    "Id": "24",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/24.jpg"
+  },
+  {
+    "Id": "25",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/25.jpg"
+  },
+  {
+    "Id": "26",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"/26.jpg"
   }
 ]
