@@ -14,6 +14,7 @@
 }
 .section-filter{
   cursor: pointer;
+  user-select: none;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -23,13 +24,17 @@
   background-color: #ff40006b;
 }
 
-.section-filter span{
+.section-filter .arrow{
   line-height: .5;
   font-size: 2rem;
   transform: rotate(180deg) translateY(5px);
   color: #FF3E00;
 }
+.section-filter .arrowback{
+  transform: rotate(0deg) translateY(5px);
+}
 .tecnology{
+  user-select: none;
   cursor: pointer;
   padding: .2rem;
   padding-left: 2rem;
@@ -39,4 +44,7 @@
 }
 .section-program{
   padding-bottom: 1rem;
+}
+.hidden {
+  display: none;
 }

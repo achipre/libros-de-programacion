@@ -2,16 +2,28 @@
   
   {
     "Id": "01",
-    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Titulos": "97 cosas que todo programador debe saber ",
     "Categoria": "Lenguaje de Programacion",
-    "Lenguaje": "Kotlin",
+    "Lenguaje": "General",
     "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formatos": [{"formato":"Web", "url": "https://97cosas.com/programador/"}],
+    "Pages": 250,
+    "Imagen":"/1.jpg"
+  },
+  {
+    "Id": "02",
+    "Titulos": "Los Apuntes de Majo",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "General",
+    "Autores": "Majo Ledesma",
     "Idiomas": ["Español", "Ingles"],
     "Formato": ["PDF", "Web"],
     "Pages": 250,
     "Imagen":"url.com"
   },
   {
+    "Id": "03",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Lua",
@@ -22,6 +34,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "04",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "R",
@@ -32,6 +45,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "05",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Java",
@@ -42,6 +56,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "06",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Ruby",
@@ -52,6 +67,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "07",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Go",
@@ -62,6 +78,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "08",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "TypeScript",
@@ -72,6 +89,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "09",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Futter",
@@ -82,6 +100,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "10",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "JavaScript",
@@ -92,6 +111,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "11",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Dart",
@@ -102,6 +122,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "12",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "Python",
@@ -112,6 +133,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "13",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "PHP",
@@ -122,6 +144,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "14",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "C++",
@@ -132,6 +155,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "15",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "C#",
@@ -142,6 +166,7 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "16",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
     "Lenguaje": "C",
@@ -152,8 +177,20 @@
     "Imagen":"url.com"
   },
   {
+    "Id": "17",
     "Titulos": "97 cosas que Todo Programador debe saber",
     "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Rust",
+    "Autores": "Kevlin Henney",
+    "Idiomas": ["Español", "Ingles"],
+    "Formato": ["PDF", "Web"],
+    "Pages": 250,
+    "Imagen":"url.com"
+  },
+  {
+    "Id": "18",
+    "Titulos": "97 cosas que Todo Programador debe saber",
+    "Categoria": "Diseño UI/UX",
     "Lenguaje": "Rust",
     "Autores": "Kevlin Henney",
     "Idiomas": ["Español", "Ingles"],
