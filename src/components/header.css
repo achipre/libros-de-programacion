@@ -6,6 +6,7 @@ header{
   justify-content: space-between;
   grid-column: 1/4;
   margin-bottom: 1.2rem;
+  color: rgba(0, 0, 0, 0.6);
 }
 .logo,
 .header-github{
@@ -15,6 +16,9 @@ header{
 }
 header h1 {
   font-size: 2rem;
+}
+.header-github p{
+  font-weight: 600;
 }
 @media (width < 799px) {
   .header-github p{
