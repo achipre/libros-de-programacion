@@ -1,24 +1,23 @@
+import { Routes, Route } from 'react-router-dom'
+import Filter from './Filter'
 import Book from '../mockup/books.json'
 import './section.css'
+import FilterFull from './FilterFull'
+
 export default function Section () {
   const informacion = Book
   return (
     <section className="grid-book">
+      <Routes>
+        <Route path="/" element={<FilterFull />}></Route>
+      </Routes>
       {informacion.map(info => (
-        <div className="card-book" key={info.Id}>
-          <div className="card-book__boximg">
-            <img className="card-book__img" src={info.Imagen} alt={info.Titulos} />
-            <div className="card-book__lang">
-              {info.Formato.map((lang, idx) => (
-                <a key={idx} className="lang__esp" href={lang.url} target='_blank' rel="noreferrer">
-                  {lang.formato}
-                </a>
-              ))}
-            </div>
-          </div>
-          <p className="card-book__title">{info.Titulos}</p>
-          <p className="card-book__autor">{info.Autores}</p>
-        </div>
+        <Routes key={info.Id}>
+          <Route
+            path={info.Lenguaje === 'C#' ? 'csharp' : info.Lenguaje}
+            element={<Filter info={info} />}
+          ></Route>
+        </Routes>
       ))}
     </section>
   )

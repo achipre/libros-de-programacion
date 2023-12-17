@@ -14,10 +14,11 @@
 }
 
 article{
-  margin: 50px;
+  margin: 36px;
   padding: 2rem;
   border-radius: 6px;
-  background-color: rgba(250, 235, 215, 0.8);
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.5);
 }
 .principal-main{
   display: flex;

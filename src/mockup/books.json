@@ -49,7 +49,7 @@
     "Id": "06",
     "Titulos": "React: De aprendiz a maestro",
     "Categoria": "Lenguaje de Programacion",
-    "Lenguaje": "React",
+    "Lenguaje": "JavaScript",
     "Autores": "Raúl Expósito",
     "Formato": [{"formato":"ESP", "url": "https://es.survivejs.com/react/introduction/"},{"formato":"ENG", "url": "https://survivejs.com/maintenance/preface/"}],
     "Imagen":"/6.jpg"
@@ -211,7 +211,7 @@
     "Id": "24",
     "Titulos": "Tutorial de SQL",
     "Categoria": "Base de Datos",
-    "Lenguaje": "Otros",
+    "Lenguaje": "base-de-datos",
     "Autores": "Rubén Alvarez",
     "Formato": [{"formato":"ESP", "url": "https://desarrolloweb.com/manuales/tutorial-sql.html"}],
     "Imagen":"/24.jpg"
@@ -229,7 +229,7 @@
     "Id": "26",
     "Titulos": "Manual de SQL",
     "Categoria": "Base de Datos",
-    "Lenguaje": "Otros",
+    "Lenguaje": "base-de-datos",
     "Autores": "Jorge Sanchez Asenjo",
     "Formato": [{"formato":"ESP", "url": "https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html"}],
     "Imagen":"/26.jpg"
@@ -247,9 +247,207 @@
     "Id": "28",
     "Titulos": "Atomic Design",
     "Categoria": "Diseño UI/UX",
-    "Lenguaje": "Otros",
+    "Lenguaje": "diseno-ui-ux",
     "Autores": "Brad Frost",
     "Formato": [{"formato":"ENG", "url": "https://atomicdesign.bradfrost.com/"}],
     "Imagen":"/28.jpg"
+  },
+  {
+    "Id": "29",
+    "Titulos": "APRENDIZAJE JavaScript",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/javascript-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/javascript.pdf"}],
+    "Imagen":"/29.jpg"
+  },
+  {
+    "Id": "30",
+    "Titulos": "APRENDIZAJE Go",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Go",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/go-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/go.pdf"}],
+    "Imagen":"/30.jpg"
+  },
+  {
+    "Id": "31",
+    "Titulos": "APRENDIZAJE PHP",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "PHP",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url":"https://riptutorial.com/Download/php-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/php.pdf"}],
+    "Imagen":"/31.jpg"
+  },
+  {
+    "Id": "32",
+    "Titulos": "APRENDIZAJE Kotlin",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Kotlin",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/kotlin-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/kotlin.pdf"}],
+    "Imagen":"/32.jpg"
+  },
+  {
+    "Id": "33",
+    "Titulos": "APRENDIZAJE MySQL",
+    "Categoria": "Base de Datos",
+    "Lenguaje": "base-de-datos",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/mysql-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/mysql.pdf"}],
+    "Imagen":"/33.jpg"
+  },
+  {
+    "Id": "34",
+    "Titulos": "APRENDIZAJE React",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/react-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/react.pdf"}],
+    "Imagen":"/34.jpg"
+  },
+  {
+    "Id": "35",
+    "Titulos": "APRENDIZAJE Angular",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/angular-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/angular.pdf"}],
+    "Imagen":"/35.jpg"
+  },
+  {
+    "Id": "36",
+    "Titulos": "APRENDIZAJE azure",
+    "Categoria": "Cloud",
+    "Lenguaje": "cloud",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/azure-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/azure.pdf"}],
+    "Imagen":"/36.jpg"
+  },
+  {
+    "Id": "37",
+    "Titulos": "APRENDIZAJE C",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/c-language-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/c-language.pdf"}],
+    "Imagen":"/37.jpg"
+  },
+  {
+    "Id": "38",
+    "Titulos": "APRENDIZAJE C#",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C#",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/csharp-language.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/csharp-language.pdf"}],
+    "Imagen":"/38.jpg"
+  },
+  {
+    "Id": "39",
+    "Titulos": "APRENDIZAJE Clojure",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Clojure",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/clojure-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/clojure.pdf"}],
+    "Imagen":"/39.jpg"
+  },
+  {
+    "Id": "40",
+    "Titulos": "APRENDIZAJE C++",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C++",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/cplusplus-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/cplusplus.pdf"}],
+    "Imagen":"/40.jpg"
+  },
+  {
+    "Id": "41",
+    "Titulos": "APRENDIZAJE Django",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Python",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/django-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/django.pdf"}],
+    "Imagen":"/41.jpg"
+  },
+  {
+    "Id": "42",
+    "Titulos": "APRENDIZAJE MongoDB",
+    "Categoria": "Base de Datos",
+    "Lenguaje": "base-de-datos",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/mongodb-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/mongodb.pdf"}],
+    "Imagen":"/42.jpg"
+  },
+  {
+    "Id": "43",
+    "Titulos": "APRENDIZAJE NodeJS",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/node-js-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/node-js.pdf"}],
+    "Imagen":"/43.jpg"
+  },
+  {
+    "Id": "44",
+    "Titulos": "APRENDIZAJE Ruby",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Ruby",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/ruby-language-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/ruby-language.pdf"}],
+    "Imagen":"/44.jpg"
+  },
+  {
+    "Id": "45",
+    "Titulos": "APRENDIZAJE VueJs",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "JavaScript",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/vue-js-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/vue-js.pdf"}],
+    "Imagen":"/45.jpg"
+  },
+  {
+    "Id": "46",
+    "Titulos": "APRENDIZAJE Spring Boot",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/spring-boot-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/spring-boot.pdf"}],
+    "Imagen":"/46.jpg"
+  },
+  {
+    "Id": "47",
+    "Titulos": "APRENDIZAJE Ruby on Rails",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Ruby",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/ruby-on-rails-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/ruby-on-rails.pdf"}],
+    "Imagen":"/47.jpg"
+  },
+  {
+    "Id": "48",
+    "Titulos": "APRENDIZAJE Python",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Python",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/python-language-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/python-language.pdf"}],
+    "Imagen":"/48.jpg"
+  },
+  {
+    "Id": "49",
+    "Titulos": "APRENDIZAJE AWS",
+    "Categoria": "Cloud",
+    "Lenguaje": "cloud",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/amazon-web-services-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/amazon-web-services.pdf"}],
+    "Imagen":"/49.jpg"
+  },
+  {
+    "Id": "50",
+    "Titulos": "APRENDIZAJE Google Cloud Platform",
+    "Categoria": "Cloud",
+    "Lenguaje": "cloud",
+    "Autores": "RIP Tuturial",
+    "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/google-cloud-platform-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/google-cloud-platform.pdf"}],
+    "Imagen":"/50.jpg"
   }
 ]

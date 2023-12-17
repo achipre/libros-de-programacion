@@ -1,21 +1,23 @@
 .grid-book{
-  margin: 2rem 0 2rem 0;
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fill,  minmax(200px, 1fr));
-  height: calc(100vh - 164px - 168px);
+  grid-template-columns: repeat(auto-fill,  minmax(180px, 1fr));
+  height: calc(100vh - 298px);
+  border-radius: 8px;
+  margin-top: 24px;
+  margin-bottom: 24px;
   overflow: scroll;
   gap: 1rem;
 }
 .grid-book::-webkit-scrollbar {
   display: none;
 }
-
 .card-book{
   width: 100%;
   position: relative;
   display: flex;
   flex-direction: column;
+  height: max-content;
   
 }
 .card-book__boximg{
@@ -24,6 +26,7 @@
 }
 .card-book__img{
   width: 100%;
+  border-radius: 8px;
 }
 .card-book__lang{
   position: absolute;
@@ -36,9 +39,14 @@
   border: 2px solid #FF3E00;
   background-color: #FF3E00;
   text-decoration: none;
-  padding: .5rem 1rem;
+  padding: .3rem .6rem;
   font-weight: 600;
   color: #F2F2F2;
+}
+.lang__esp:hover,
+.lang__eng:hover {
+  background-color: #F2F2F2;
+  color: #FF3E00;
 }
 .card-book__title{
   text-wrap: balance;

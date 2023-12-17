@@ -1,18 +1,19 @@
 .aside-filter{
-  height: calc(100vh - 164px - 64px - 48px - 54px - 40px);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  height: calc(100vh - 282px);
   overflow-y: scroll;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   color: rgba(0, 0, 0, 0.6);
   width: 100%;
-  max-width: 280px;
+  max-width: 240px;
 }
 .aside-filter::-webkit-scrollbar{
   display: none;
 }
 .section-filter{
+  color: rgba(0, 0, 0, 0.6);
+  text-decoration: none;
+
   cursor: pointer;
   user-select: none;
   display: flex;
@@ -33,7 +34,11 @@
 .section-filter .arrowback{
   transform: rotate(0deg) translateY(5px);
 }
+
 .tecnology{
+  color: rgba(0, 0, 0, 0.6);
+  text-decoration: none;
+  display: block;
   user-select: none;
   cursor: pointer;
   padding: .2rem;
