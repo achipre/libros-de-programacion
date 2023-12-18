@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Books from '../mockup/books.json'
 import './asideFilter.css'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 export default function AsideFilter () {
   const lenguajesObj = Books.filter(tech => tech.Categoria === 'Lenguaje de Programacion' && { ...tech })
@@ -13,39 +13,61 @@ export default function AsideFilter () {
     setProgramCheck(!programCheck)
   }
   return (
-      <aside className="aside-filter">
-        <section to={'otros'} onClick={handlechekProgra} className="section-filter">
-          <h2>Programación </h2>
-          <input type="checkbox" checked={programCheck} readOnly hidden />
-          <span className={`arrow ${programCheck && 'arrowback'}`}>⌃</span>
-        </section>
-        <div className={`section-program  ${!programCheck && 'hidden'}`}>
-          {lengujesOrden.map((leng, idx) => (
-            <Link
-              to={leng === 'C#' ? 'csharp' : leng.toLowerCase()}
-              className="tecnology"
-              key={idx}
-            >
-              {leng}
-            </Link>
-          ))}
-        </div>
-        <hr />
-        <Link to={'diseno-ui-ux'} className="section-filter">
-          <h2>Diseño UI/UX</h2>
-        </Link>
-        <hr />
-        <Link to={'cloud'} className="section-filter">
-          <h2>Cloud</h2>
-        </Link>
-        <hr />
-        <Link to={'base-de-datos'} className="section-filter">
-          <h2>Base de Datos</h2>
-        </Link>
-        <hr />
-        <Link to={'otros'} className="section-filter">
-          <h2>Otros</h2>
-        </Link>
-      </aside>
+    <aside className="aside-filter">
+      <section to={'otros'} onClick={handlechekProgra} className="section-filter">
+        <h2>Programación </h2>
+        <input type="checkbox" checked={programCheck} readOnly hidden />
+        <span className={`arrow ${programCheck && 'arrowback'}`}>⌃</span>
+      </section>
+      <div className={`section-program  ${!programCheck && 'hidden'}`}>
+        {lengujesOrden.map((leng, idx) => (
+          <NavLink
+            to={leng === 'C#' ? 'csharp' : leng.toLowerCase()}
+            className={({ isActive }) =>
+              isActive ? 'tecnology section-filter__active' : 'tecnology'
+            }
+            key={idx}
+          >
+            {leng}
+          </NavLink>
+        ))}
+      </div>
+      <hr />
+      <NavLink
+        to={'diseno-ui-ux'}
+        className={({ isActive }) =>
+          isActive ? 'section-filter section-filter__active' : 'section-filter'
+        }
+      >
+        <h2>Diseño UI/UX</h2>
+      </NavLink>
+      <hr />
+      <NavLink
+        to={'cloud'}
+        className={({ isActive }) =>
+          isActive ? 'section-filter section-filter__active' : 'section-filter'
+        }
+      >
+        <h2>Cloud</h2>
+      </NavLink>
+      <hr />
+      <NavLink
+        to={'base-de-datos'}
+        className={({ isActive }) =>
+          isActive ? 'section-filter section-filter__active' : 'section-filter'
+        }
+      >
+        <h2>Base de Datos</h2>
+      </NavLink>
+      <hr />
+      <NavLink
+        to={'otros'}
+        className={({ isActive }) =>
+          isActive ? 'section-filter section-filter__active' : 'section-filter'
+        }
+      >
+        <h2>Otros</h2>
+      </NavLink>
+    </aside>
   )
 }

@@ -4,7 +4,8 @@
   grid-column: 1/3;
   color: rgba(0, 0, 0, 0.6);
 }
-.footer span{
+.footer a{
+  text-decoration: none;
   cursor: pointer;
   color: blue;
   font-weight: 600;

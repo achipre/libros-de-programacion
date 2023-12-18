@@ -24,6 +24,9 @@
 .section-filter:hover{
   background-color: #ff40006b;
 }
+.section-filter__active{
+  background-color: #ff40006b;
+}
 
 .section-filter .arrow{
   line-height: .5;
@@ -52,4 +55,10 @@
 }
 .hidden {
   display: none;
+}
+@media (width < 799px) {
+  .aside-filter{
+    display: none;
+  }
+  
 }

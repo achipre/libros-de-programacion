@@ -27,3 +27,9 @@ article{
 hr{
   border-color: #ff400017;
 }
+@media (width < 512px) {
+  article {
+    margin: 0;
+  }
+  
+}
