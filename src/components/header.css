@@ -20,8 +20,16 @@ header{
 header h1 {
   font-size: 2rem;
 }
+.header-title{
+  display: none;
+}
 .header-github p{
   font-weight: 600;
+}
+
+header a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.6);
 }
 @media (width < 799px) {
   .header-github p{
@@ -36,7 +44,13 @@ header h1 {
   }
   
 }
-header a{
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.6);
+@media (width < 555px) {
+  .header-title{
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 600;
+  }
+  header h1 {
+    display: none;
+  }
 }

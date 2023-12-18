@@ -10,3 +10,20 @@
   color: blue;
   font-weight: 600;
 }
+@media (width < 708px) {
+  .footer {
+    text-wrap: nowrap;
+  }
+
+}
+@media (width < 440px) {
+  .footer {
+    text-wrap: wrap;
+  }
+}
+@media (width < 260px) {
+  .footer {
+    display: none;
+  }
+
+}

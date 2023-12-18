@@ -9,7 +9,7 @@ export default function Section () {
   return (
     <section className="grid-book">
       <Routes>
-        <Route path="/" element={<FilterFull />}></Route>
+        <Route path="" element={<FilterFull />}></Route>
       </Routes>
       {informacion.map(info => (
         <Routes key={info.Id}>

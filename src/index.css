@@ -27,9 +27,46 @@ article{
 hr{
   border-color: #ff400017;
 }
-@media (width < 512px) {
+.aside-mobile{
+  width: 70%;
+  min-width: 440px;
+  padding: 1rem;
+  position: fixed;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.5);
+  transform: translateX(-100%)
+}
+.aside-mobile .close-aside{
+  cursor: pointer;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: end;
+  display: block;
+  padding-bottom: 1rem;
+  color: #FF3E00;
+}
+.openAside{
+  animation: openAside .5s ease-in-out both;
+}
+@keyframes openAside {
+  0% { transform: translateX(-100%)}
+  100% { transform: translateX(0)}
+}
+@media (width < 708px) {
   article {
     margin: 0;
+  }
+  
+}
+@media (width < 440px) {
+  article {
+    padding: 1rem;
+    border-radius: 0;
+    min-width: 148px;
+  }
+  .aside-mobile{
+    width: calc(100% - 32px);
+    min-width: 228px;
   }
   
 }

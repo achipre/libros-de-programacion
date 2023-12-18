@@ -58,7 +58,12 @@
 }
 @media (width < 799px) {
   .aside-filter{
-    display: none;
+    width: 100%;
+    max-width: 100%;
+    /* position: absolute; */
+    /* transform: translateX(-10%); */
+    height: calc(100vh);
+    margin: 0;
   }
   
 }

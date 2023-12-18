@@ -22,11 +22,15 @@
 }
 .card-book__boximg{
   position: relative;
+  width: 100%;
+  aspect-ratio: 471/667;
+  border-radius: 8px;
 
 }
 .card-book__img{
   width: 100%;
   border-radius: 8px;
+  height: auto;
 }
 .card-book__lang{
   position: absolute;
@@ -57,4 +61,24 @@
 .card-book__autor{
   margin-top: auto;
   text-align: center;
+}
+@media (width < 708px) {
+  .grid-book {
+    height: calc(100vh - 216px);
+  }
+}
+@media (width < 440px) {
+  .grid-book {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    height: calc(100vh - 216px);
+    margin: 0;
+    padding: 24px 0 ;
+  }
+
+}
+@media (width < 260px) {
+  .grid-book {
+    height: calc(100vh - 150px);
+  }
+
 }
