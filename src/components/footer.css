@@ -1,14 +1,35 @@
 .footer{
-  margin-top: 1.2rem;
+  margin-top: .6rem;
   font-size: 1.2rem;
   grid-column: 1/3;
   color: rgba(0, 0, 0, 0.6);
+}
+.footer p{
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: row;
+  font-weight: 600;
+
 }
 .footer a{
   text-decoration: none;
   cursor: pointer;
   color: blue;
   font-weight: 600;
+
+  
+}
+.logo-linkedin, .logo-twitter, .logo-instagram{
+  transition: fill .5s ease-in-out;
+}
+.logo-linkedin:hover ellipse, .logo-twitter:hover ellipse, .logo-instagram:hover ellipse{
+  transition: fill .5s ease-in-out;
+  fill: #FF3E00;
+}
+.logo-linkedin:hover path:last-child, .logo-twitter:hover path:last-child, .logo-instagram:hover path:last-child{
+  transition: fill .5s ease-in-out;
+  fill: white;
 }
 @media (width < 708px) {
   .footer {
@@ -22,7 +43,7 @@
   }
 }
 @media (width < 260px) {
-  .footer {
+  .footer p{
     display: none;
   }
 

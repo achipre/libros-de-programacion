@@ -449,5 +449,239 @@
     "Autores": "RIP Tuturial",
     "Formato": [{"formato":"ESP", "url": "https://riptutorial.com/Download/google-cloud-platform-es.pdf"},{"formato":"ENG", "url": "https://riptutorial.com/Download/google-cloud-platform.pdf"}],
     "Imagen":"/50.jpg"
+  },
+  {
+    "Id": "51",
+    "Titulos": "El Lenguaje de Programación C",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C",
+    "Autores": "Brian Kernighan, Dennis Ritchie",
+    "Formato": [{"formato":"ESP", "url": "https://triton.astroscu.unam.mx/fruiz/introduccion/c/libros/Lenguaje_Programacion_C.pdf"}],
+    "Imagen":"/51.jpg"
+  },
+  {
+    "Id": "52",
+    "Titulos": "Scrum y eXtreme Programming para Programadores",
+    "Categoria": "Metodologias",
+    "Lenguaje": "metodologias-agiles",
+    "Autores": "Eugenia Bahit",
+    "Formato": [{"formato":"ESP", "url": "https://umh2818.umh.es/files/2016/02/Scrum-y-eXtrem-Programming-para-programadores.pdf"}],
+    "Imagen":"/52.jpg"
+  },
+  {
+    "Id": "53",
+    "Titulos": "Scrum Level",
+    "Categoria": "Metodologias",
+    "Lenguaje": "metodologias-agiles",
+    "Autores": "Juan Palacio",
+    "Formato": [{"formato":"ESP", "url": "https://scrumlevel.com/files/scrumlevel.pdf"}],
+    "Imagen":"/53.jpg"
+  },
+  {
+    "Id": "54",
+    "Titulos": "Scrum Master - Temario troncal 1",
+    "Categoria": "Metodologias",
+    "Lenguaje": "metodologias-agiles",
+    "Autores": "Marta Palacio",
+    "Formato": [{"formato":"ESP", "url": "https://www.scrummanager.com/files/scrum_master.pdf"}],
+    "Imagen":"/54.jpg"
+  },
+  {
+    "Id": "55",
+    "Titulos": "Scrum y XP desde las trincheras",
+    "Categoria": "Metodologias",
+    "Lenguaje": "metodologias-agiles",
+    "Autores": "Henrik Kniberg",
+    "Formato": [{"formato":"ESP", "url": "http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf"}],
+    "Imagen":"/55.jpg"
+  },
+  {
+    "Id": "56",
+    "Titulos": "El camino a un mejor programador",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "General",
+    "Autores": "Esteban Manchado Velázquez",
+    "Formato": [{"formato":"ESP", "url": "http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html"}],
+    "Imagen":"/56.jpg"
+  },
+  {
+    "Id": "57",
+    "Titulos": "Introducción a Docker",
+    "Categoria": "Otros",
+    "Lenguaje": "Otros",
+    "Autores": "Benito Cuesta",
+    "Formato": [{"formato":"ESP", "url": "https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf"}],
+    "Imagen":"/57.jpg"
+  },
+  {
+    "Id": "58",
+    "Titulos": "Aprenda C++ como si estuviera en primero",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C++",
+    "Autores": "Javier García de Jalón",
+    "Formato": [{"formato":"ESP", "url": "http://caminos.udc.es/info/asignaturas/grado_itop/503/Bibliografia/TextosPDF/AprendaCPPComoSiEstuvieraEnPrimero-V2_JGarciaDeJalon.pdf"}],
+    "Imagen":"/58.jpg"
+  },
+  {
+    "Id": "59",
+    "Titulos": "Ejercicios de programación creativos y recreativos en C++",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "C++",
+    "Autores": "Luis Llana",
+    "Formato": [{"formato":"ESP", "url": "https://antares.sip.ucm.es/cpareja/libroCPP/docs/libro-completo.pdf"}],
+    "Imagen":"/59.jpg"
+  },
+  {
+    "Id": "60",
+    "Titulos": "Git Immersión",
+    "Categoria": "Otros",
+    "Lenguaje": "Otros",
+    "Autores": "Jim Weirich",
+    "Formato": [{"formato":"ESP", "url": "https://esparta.github.io/gitimmersion-spanish/"}],
+    "Imagen":"/60.jpg"
+  },
+  {
+    "Id": "61",
+    "Titulos": "Git - La guía sencilla",
+    "Categoria": "Otros",
+    "Lenguaje": "Otros",
+    "Autores": "Roger Dudler",
+    "Formato": [{"formato":"ESP", "url": "https://rogerdudler.github.io/git-guide/index.es.html"}],
+    "Imagen":"/61.jpg"
+  },
+  {
+    "Id": "62",
+    "Titulos": "Git Magic",
+    "Categoria": "Otros",
+    "Lenguaje": "Otros",
+    "Autores": "Ben Lynn",
+    "Formato": [{"formato":"ESP", "url": "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/book.pdf"}],
+    "Imagen":"/62.jpg"
+  },
+  {
+    "Id": "63",
+    "Titulos": "Curso Jakarta EE 9",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Daniel Medina",
+    "Formato": [{"formato":"ESP", "url": "https://danielme.com/curso-jakarta-ee-indice/"}],
+    "Imagen":"/63.jpg"
+  },
+  {
+    "Id": "64",
+    "Titulos": "Desarrollando con Java 8: Poker",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "David Pérez Cabrera",
+    "Formato": [{"formato":"ESP", "url": "https://ia600707.us.archive.org/18/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf"}],
+    "Imagen":"/64.jpg"
+  },
+  {
+    "Id": "65",
+    "Titulos": "Desarrollo de proyectos informáticos con Java",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Óscar Belmonte Fernández",
+    "Formato": [{"formato":"ESP", "url": "http://www3.uji.es/~belfern/libroJava.pdf"}],
+    "Imagen":"/65.jpg"
+  },
+  {
+    "Id": "66",
+    "Titulos": "Ejercicios de Programación en Java",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Arkaitz Garro",
+    "Formato": [{"formato":"ESP", "url": "https://www.arkaitzgarro.com/java/"}],
+    "Imagen":"/66.jpg"
+  },
+  {
+    "Id": "67",
+    "Titulos": "PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Picodotdev",
+    "Formato": [{"formato":"ESP", "url": "https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf"}],
+    "Imagen":"/67.jpg"
+  },
+  {
+    "Id": "68",
+    "Titulos": "Programación en Java",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Fernando Berzal Galiano",
+    "Formato": [{"formato":"ESP", "url": "http://elvex.ugr.es/decsai/java/"}],
+    "Imagen":"/68.jpg"
+  },
+  {
+    "Id": "69",
+    "Titulos": "Tutorial básico de Java EE",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Java",
+    "Autores": "Abraham Otero",
+    "Formato": [{"formato":"ESP", "url": "http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf"}],
+    "Imagen":"/69.jpg"
+  },
+  {
+    "Id": "70",
+    "Titulos": "CSS Avanzado",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "diseno-ui-ux",
+    "Autores": "Javier Eguíluz Pérez",
+    "Formato": [{"formato":"ESP", "url": "https://uniwebsidad.com/libros/css-avanzado?from=librosweb"}],
+    "Imagen":"/70.jpg"
+  },
+  {
+    "Id": "71",
+    "Titulos": "Introduccion a CSS",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "diseno-ui-ux",
+    "Autores": "Javier Eguíluz Pérez",
+    "Formato": [{"formato":"ESP", "url": "https://uniwebsidad.com/libros/css?from=librosweb"}],
+    "Imagen":"/71.jpg"
+  },
+  {
+    "Id": "72",
+    "Titulos": "Estructura con CSS",
+    "Categoria": "Diseño UI/UX",
+    "Lenguaje": "diseno-ui-ux",
+    "Autores": "Greg Smith",
+    "Formato": [{"formato":"ESP", "url": "https://es.learnlayout.com/"},{"formato":"ENG", "url": "https://learnlayout.com/"}],
+    "Imagen":"/72.jpg"
+  },
+  {
+    "Id": "73",
+    "Titulos": "El pequeño libro Redis",
+    "Categoria": "Base de Datos",
+    "Lenguaje": "base-de-datos",
+    "Autores": "Karl Seguin",
+    "Formato": [{"formato":"ESP", "url": "https://raulexposito.com/estaticos/pdf/redis.pdf"}],
+    "Imagen":"/73.jpg"
+  },
+  {
+    "Id": "74",
+    "Titulos": "Introduccion a la programación con Python",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Python",
+    "Autores": "Andrés Marzal",
+    "Formato": [{"formato":"ESP", "url": "https://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf"}],
+    "Imagen":"/74.jpg"
+  },
+  {
+    "Id": "75",
+    "Titulos": "Tutorial de Django Girls",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Python",
+    "Autores": "",
+    "Formato": [{"formato":"ESP", "url": "https://tutorial.djangogirls.org/es/"},{"formato":"ENG", "url": "https://tutorial.djangogirls.org/en/"}],
+    "Imagen":"/75.jpg"
+  },
+  {
+    "Id": "76",
+    "Titulos": "Introducción a Rails",
+    "Categoria": "Lenguaje de Programacion",
+    "Lenguaje": "Ruby",
+    "Autores": "RubySur",
+    "Formato": [{"formato":"ESP", "url": "http://rubysur.org/introduccion.a.rails/"}],
+    "Imagen":"/76.jpg"
   }
 ]

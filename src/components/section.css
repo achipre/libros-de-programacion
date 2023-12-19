@@ -70,7 +70,7 @@
 @media (width < 440px) {
   .grid-book {
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    height: calc(100vh - 216px);
+    height: calc(100vh - 210px);
     margin: 0;
     padding: 24px 0 ;
   }

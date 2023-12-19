@@ -16,6 +16,7 @@
 article{
   margin: 36px;
   padding: 2rem;
+  padding-bottom: .8rem;
   border-radius: 6px;
   backdrop-filter: blur(10px);
   background: rgba(255, 255, 255, 0.5);

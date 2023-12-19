@@ -39,7 +39,7 @@ export default function AsideFilter () {
           isActive ? 'section-filter section-filter__active' : 'section-filter'
         }
       >
-        <h2>Diseño UI/UX</h2>
+        <h2>Diseño y CSS</h2>
       </NavLink>
       <hr />
       <NavLink
@@ -49,6 +49,14 @@ export default function AsideFilter () {
         }
       >
         <h2>Cloud</h2>
+      </NavLink>
+      <NavLink
+        to={'metodologias-agiles'}
+        className={({ isActive }) =>
+          isActive ? 'section-filter section-filter__active' : 'section-filter'
+        }
+      >
+        <h2>Metodologías Águiles</h2>
       </NavLink>
       <hr />
       <NavLink
